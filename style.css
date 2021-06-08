@@ -41,7 +41,7 @@ body, #cabecalhoPrincipal h1{
 
 section#main{
     background-color: rgb(230, 230, 230);
-    padding-bottom: 5%;
+    padding-bottom: 4%;
     overflow: hidden;
 }
 
@@ -75,7 +75,17 @@ section#main h2{
 
 section#main p{
     text-align: justify;
-    
+
 }
 
+#rodape {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color:rgb(80,197,155);
+    font-weight: normal;
+    margin: 0%;
+    font-size: 16px;
+    padding: 2ch;
+}
 
